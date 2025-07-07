@@ -6,7 +6,7 @@ How Do I Access My ExpressVPN Account Login?
    :caption: Contents:
 Learn how to securely use your ExpressVPN account login, manage your subscription, and troubleshoot common login issues with ease.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Express VPN
    :width: 400px
    :align: center
